@@ -1,4 +1,4 @@
-# OpenSkill
+# Academic Skills
 
 学术研究工具集 — 5个 Claude Code 技能，覆盖论文从阅读到汇报的全流程。
 技能之间可以灵活组合，形成完整的工作流。
