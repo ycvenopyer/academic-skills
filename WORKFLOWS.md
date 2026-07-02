@@ -1,11 +1,11 @@
-# OpenSkill 跨技能组合工作流参考
+# Academic Skills 跨技能组合工作流参考
 
-本文档描述如何组合使用 OpenSkill 中的 5 个技能完成复杂的学术研究任务。
+本文档描述如何组合使用 Academic Skills 中的 5 个技能完成复杂的学术研究任务。
 
 ## 技能总览
 
 ```
-openskill/
+academic-skills/
 ├── academic-paper-translation/   论文逐字逐句翻译
 ├── extract-picture/              图片和表格提取
 ├── academic-ppt/                 组会汇报PPT制作
